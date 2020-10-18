@@ -1,3 +1,8 @@
+TEAM MATES:
+>>>TARAKA VINAY KUMAR 19PA1A04H2
+>>>VARAPRASAD 19PA1A0533
+>>>SUBBA RAMI REDDY 19PA1A0484 
+
 OBJECTIVE OF MY CHAT BOT:
 >>>>>this bot is useful TO KNOW MANY FAMOUS PERSONALITIES AND THEIR ACHIEVEMENTS IN DIFFERENT STREAMS LIKE SCIENCE,TECHNOLOGY,BUISINESS,...AND SO ON.
 
@@ -7,8 +12,8 @@ ABOUT MY CHAT BOT:
 
 HOW IT CAN HELPS YOU?
 >>>>>THIS BOT CAN HELP YOU TO FIND MANY FOMOUS PERSONALITIES OF DIFFERENT CATEGORIES WITH IN SECONDS WITH OUT ANY SEARCHING A LOT.
- you tube link
- <iframe width="560" height="315" src="https://www.youtube.com/embed/_pfaHo0UHRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ YOU TUBE LINK
+>> <iframe width="560" height="315" src="https://www.youtube.com/embed/_pfaHo0UHRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 
